@@ -8,7 +8,7 @@ import click
 import pyperclip
 
 # Variables
-URL_TRANSFERSH = 'https://transfer.sh'
+URL_TRANSFERSH = 'http://10.20.50.188'
 
 @click.command()
 @click.argument('filename')
